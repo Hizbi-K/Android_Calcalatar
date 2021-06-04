@@ -1,4 +1,4 @@
-package com.example.calcalatar;
+package com.hizbik.calcalatar;
 
 import android.content.Intent;
 import android.os.Bundle;

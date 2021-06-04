@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.calcalatar">
+    package="com.hizbik.calcalatar">
 
     <application
         android:allowBackup="true"
@@ -9,7 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Calcalatar.NoActionBar" >
-        <activity android:name=".MainActivity">
+        <activity android:name="com.hizbik.calcalatar.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -18,7 +18,7 @@
         </activity>
 
         <activity
-            android:name="com.example.calcalatar.Calculator_Activity"
+            android:name="com.hizbik.calcalatar.Calculator_Activity"
             android:label="Calculator_Activity"
             android:theme="@style/Theme.Calcalatar.NoActionBar" />
 
