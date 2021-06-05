@@ -53,7 +53,7 @@ Constraint Layout is used throughout to design and arrange the UI elements. The 
 
 This makes the layput stable from one device size to another without crafting seperate layouts for each screen size.
 
-# onClick Funtions
+# onClick Functions
 
 The app uses separate onClick funtions for each group of buttons. The buttons are grouped as:
 
@@ -72,3 +72,8 @@ The app uses separate onClick funtions for each group of buttons. The buttons ar
 The next best feature to add is the ability to parse expressions having multiple operators. This can be done either manually by using stacks and a 'PostFix' algorithm, or by using a library such as Mariusz Gromada's 'mXparser' library. 
 
 Other features that can be added are calculation history/memory and customizable themes. 
+
+<p align="center">
+  <=================================================================>
+</p>
+
